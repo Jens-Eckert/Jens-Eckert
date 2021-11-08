@@ -1,9 +1,3 @@
-Rotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotationsRotations rotations
-what are they good for
+# Why is DX12 so goddamn verbose good lord man what are those macros.  It do be powerful though.
 
-pain
-
-<!---
-CaptainLupa/CaptainLupa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Metal is like scratch in comparison.
